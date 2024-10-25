@@ -3,9 +3,9 @@
 #### Technical Skills: Python, SQL, Tableau, Java, C
 
 ## Education
-- M.S., Data Science and Computational Intelligence | Coventry University (_Nov 2022_)								       		
-- M.E., Computer Science and Engineering	| Government College of Engineering, Aurangabad (_November 2012_)	 			        		
-- B.E., Computer Engineering | Pune University (_Aug 2009_)
+- M.S. Data Science and Computational Intelligence | Coventry University (_Nov 2022_)								       		
+- M.E. Computer Science and Engineering	           | Government College of Engineering, Aurangabad (_November 2012_)	 			        		
+- B.E. Computer Engineering                        | Pune University (_Aug 2009_)
 
 ## Work Experience
 **Freelancer (_June 2022 - Present_)**
@@ -23,17 +23,13 @@
   
 ## Projects
 ### K-Means Clustering and Prediction of Online Shoppers’ Purchasing Intention
-
 •	Utilised Python with scikit-learn and pandas to analyse the Online Shoppers’ Purchasing Intention dataset, identifying features correlated with revenue generation.
 •	Trained a deep neural network for revenue classification and implemented K-means clustering to identify distinct online customer segments.
 
 
 ### Big Data Analysis of DataCo Smart Supply Chain
-
 •	Utilised Google Colaboratory with PySpark SQL to pre-process and analyse the DataCo Supply chain dataset, employing techniques like data cleansing and exploratory data analysis.
 •	Evaluated machine learning models for fraud detection and sales prediction using Random Forest Classification and Decision Tree Regression algorithms, achieving high accuracy, and leveraging Tableau for insightful data visualisation.
-
-
 
 ### Search Engine for Research Publications for Coventry University
 •	Implemented a smart search engine for Coventry University's School of Life Sciences Publications website using Python Framework, incorporating a Breadth-First Search Web Crawler and NLP pre-processing techniques.
